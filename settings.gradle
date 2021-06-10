@@ -1,0 +1,3 @@
+include ':SoundPlayerLib'
+include ':app'
+rootProject.name = "SoundPlayer"
